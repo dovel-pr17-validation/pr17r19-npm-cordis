@@ -51,7 +51,7 @@
     "@cordisjs/plugin-loader": "^1.0.0-rc.9",
     "@cordisjs/plugin-logger-console": "^1.0.0",
     "@types/babel__code-frame": "^7.27.0",
-    "@types/picomatch": "^3.0.2",
+    "@types/picomatch": "^4.0.3",
     "cordis": "^4.0.0-rc.12",
     "esbuild": "^0.27.3"
   },
